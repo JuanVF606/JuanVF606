@@ -13,6 +13,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
+
 ## 📈 A Bit About Me:
 
 - 🔭 Currently developing web applications focused on delivering an **exceptional user experience**.
@@ -20,7 +21,7 @@
 - 🌱 Continuously honing my skills in **neural networks** and **cybersecurity**.
 - 💬 Feel free to reach out about **React**, **Django**, **Python**, **Flutter**, or how I apply **Scrum** to optimize my projects.
 - 🥋 Outside the tech world, I practice **Kyokushin**, a martial art that has earned me the 4th kyu (green belt) international grade under the **Iko Matsushima JP** organization in Chile.
-
+- 🌟 **Check out my projects [here]()**.
 
 ---
 
