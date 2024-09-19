@@ -25,20 +25,6 @@
 ---
 
 ## 📊 GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanVF606&show_icons=true&theme=radical&count_private=true&hide=prs)
-
-### Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanVF606&layout=compact&theme=radical&hide=html)
 
-### Contribution Streak
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=JuanVF606&theme=radical&hide_border=true)
-
-### Recent Activity
-![Recent Activity](https://github-readme-activity-graph.cyclic.app/graph?username=JuanVF606&theme=radical&hide_border=true)
-
----
-## 🚀 Highlighted Project:
-- 🌐 🇨🇱 [Iko Matsushima](http://www.ikomatsushima.cl) - An international website showcasing my ability to develop scalable applications using React & Python. This project demonstrates my skills in full-stack development.
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanVF606&show_icons=true&theme=radical&count_private=true&hide=prs)
