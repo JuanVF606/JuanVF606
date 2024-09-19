@@ -4,6 +4,16 @@ Passionate about **cybersecurity**, **web and mobile development**, and **neural
 
 ---
 
+## 📈 A Bit About Me:
+
+- 🔭 Currently developing web applications focused on delivering an **exceptional user experience**.
+- 📱 My passion extends to both **web and mobile development**, always seeking new learning opportunities and growth.
+- 🌱 Continuously honing my skills in **neural networks** and **cybersecurity**.
+- 💬 Feel free to reach out about **React**, **Django**, **Python**, **Flutter**, or how I apply **Scrum** to optimize my projects.
+- 🥋 Outside the tech world, I practice **Kyokushin**, a martial art that has earned me the 4th kyu (green belt) international grade under the **Iko Matsushima JP** organization in Chile.
+
+---
+
 ## 🛠️ Technologies I Use:
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
@@ -18,25 +28,9 @@ Passionate about **cybersecurity**, **web and mobile development**, and **neural
 
 ---
 
-## 🚀 Highlighted Project:
-
-- 🌐 [Iko Matsushima CL](http://www.ikomatsushima.cl) - An international website showcasing my ability to develop scalable applications using technologies such as ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) and ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white). This project demonstrates my skills in full-stack development.
-
----
-
-## 📈 A Bit About Me:
-
-- 🔭 Currently developing web applications focused on delivering an **exceptional user experience**.
-- 📱 My passion extends to both **web and mobile development**, always seeking new learning opportunities and growth.
-- 🌱 Continuously honing my skills in **neural networks** and **cybersecurity**.
-- 💬 Feel free to reach out about **React**, **Django**, **Python**, **Flutter**, or how I apply **Scrum** to optimize my projects.
-- 🥋 Outside the tech world, I practice **Kyokushin**, a martial art that has earned me the 4th kyu (green belt) international grade under the **Iko Matsushima JP** organization in Chile.
-
----
 
 ## 📊 GitHub Stats:
 
-### Overall Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanVF606&show_icons=true&theme=radical&count_private=true&hide=prs)
 
 ### Most Used Languages
@@ -48,15 +42,8 @@ Passionate about **cybersecurity**, **web and mobile development**, and **neural
 ### Recent Activity
 ![Recent Activity](https://github-readme-activity-graph.cyclic.app/graph?username=JuanVF606&theme=radical&hide_border=true)
 
----
+## 🚀 Highlighted Project:
 
----
+- 🌐 [Iko Matsushima 🇨🇱 ](http://www.ikomatsushima.cl) - An international website showcasing my ability to develop scalable applications using React & Python. This project demonstrates my skills in full-stack development.
 
-## 🌐 Connect with Me:
-
-I'm always open to collaboration, networking, and sharing knowledge. Feel free to reach out!
-
-- **Email:** [juanvenegas@gmail.com](mailto:j.venegasfuenzalida@gmail.com)
-
-Let's connect and explore opportunities together!
 
